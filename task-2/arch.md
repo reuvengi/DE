@@ -18,7 +18,7 @@
 * События из приложений Netflix и телеметрия поступают на kafka кластер, из kafka ни попадают в S3
 * Справочники из базы Cassandra попадают в S3
 * Процессинг отделен от хранения - hadoop кластер развренут на ec2 инстансах, 
-  данные - на S3
+  данные - на S3 хранятся в формате parquet
 * Spark - data processing and ETL jobs Scala+Python
 * Presto - используется для запросов, преимущества ANSI SQL, low latency queries, 
   может быть быстрее, чем Spark SQL
