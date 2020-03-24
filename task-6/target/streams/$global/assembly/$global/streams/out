@@ -5,9 +5,13 @@
 [0m[[0m[0minfo[0m] [0m[0mMerging files...[0m
 [0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/MANIFEST.MF' with strategy 'discard'[0m
 [0m[[0m[33mwarn[0m] [0m[0mStrategy 'discard' was applied to a file[0m
-[0m[[0m[0minfo[0m] [0m[0mSHA-1: 09eed65ded241536fcde15603addd1f8e7e9e075[0m
+[0m[[0m[0minfo[0m] [0m[0mSHA-1: bd4e28ab5aea90edfd93fac37097f9df8f157c52[0m
 [0m[[0m[0minfo[0m] [0m[0mPackaging /home/devops/code/json_reader_gizatullin/target/scala-2.11/json_reader_gizatullin-assembly-0.0.1.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/example/BostonCrimesMap$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/devops/code/json_reader_gizatullin/target/streams/$global/assemblyOption/$global/streams/assembly/479580c4d19f80a2fbe99d9e3853dc9e7152eead_dir/com/example/BostonCrimesMap$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/example/BostonCrimesMap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/devops/code/json_reader_gizatullin/target/streams/$global/assemblyOption/$global/streams/assembly/479580c4d19f80a2fbe99d9e3853dc9e7152eead_dir/com/example/BostonCrimesMap.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	com/github/mrpowers/my/cool/project/JsonReader$$anonfun$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/devops/code/json_reader_gizatullin/target/streams/$global/assemblyOption/$global/streams/assembly/479580c4d19f80a2fbe99d9e3853dc9e7152eead_dir/com/github/mrpowers/my/cool/project/JsonReader$$anonfun$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	com/github/mrpowers/my/cool/project/JsonReader$$anonfun$2.class[0m
